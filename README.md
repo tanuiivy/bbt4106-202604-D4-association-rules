@@ -18,9 +18,9 @@ Intelligence I.
 
 | Details | Comment |
 |---|---|
-| **Student ID** | |
-| **Name** | |
-| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** | |
+| **Student ID** | 168825 |
+| **Name** | Wanyingi Shirleen Muthoni |
+| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** | I did Section 1: Data loading and EDA and Section 2: Building transactions.<br>I learnt that a row is one item in an order and order_id helps group items into baskets. Also, orders with one item cannot be used to form a rule but they are not removed because the support value would look higher than it actually is which is not accurate. I also learnt how to interpret a basket matrix. A basket matrix has one row per order and one column per item. True means the item was in that order and false means that the item was not in that order. <br>Link to the branch: https://github.com/tanuiivy/bbt4106-202604-D4-association-rules/tree/feature/eda-shirleen|
 
 ### Member 2
 
