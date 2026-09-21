@@ -26,9 +26,11 @@ Intelligence I.
 
 | Details | Comment |
 |---|---|
-| **Student ID** | |
-| **Name** | |
-| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** | |
+| **Student ID** |166076|
+| **Name** |Angela Faith|
+| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** |I did section 3: Choosing min_support and section 4: Frequent itemset generation. I learned how to and the importance of choosing and appropriate support level and what it actually means to do so in practical terms. I also learned how to generate frequent itemsets and to interpret the outputs after having done so. I understood how these concepts can also be applied practically in the real world and the kinds of problems they can solve.
+
+Github branch link: https://github.com/tanuiivy/bbt4106-202604-D4-association-rules/tree/feature/-itemsets---Angela|
 
 ### Member 3
 
