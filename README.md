@@ -36,7 +36,7 @@ Intelligence I.
 |---|---|
 | **Student ID** |166918 |
 | **Name** |Kariuki Irene Wanjiru |
-| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** | I did Section 5 (Choosing Thresholds) and Section 6 (Redundancy Removal): I examined the distribution of confidence and lift across the 138 rules generated in Section 4 before selecting thresholds, rather than using arbitrary round numbers. Confidence ≥ 0.4 was chosen at a visible break in the distribution, and lift ≥ 1.5 to exclude rules with near-independence signal. This reduced the rule set to 59. I then removed redundant rules, cutting the set to 30, and bidirectional duplicates, leaving a final set of 22 non-redundant, practically meaningful rules.|
+| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** | I did Section 5 (Choosing Thresholds) and Section 6 (Redundancy Removal): I examined the distribution of confidence and lift across the 138 rules generated in Section 4 before selecting thresholds, rather than using arbitrary round numbers. Confidence ≥ 0.4 was chosen at a visible break in the distribution, and lift ≥ 1.5 to exclude rules with near-independence signal. This reduced the rule set to 59. I then removed redundant rules, cutting the set to 30, and bidirectional duplicates, leaving a final set of 22 non-redundant, practically meaningful rules.<br>Link to branch: https://github.com/tanuiivy/bbt4106-202604-D4-association-rules/blob/feature/thresholds-Irene|
 
 ### Member 4
 
