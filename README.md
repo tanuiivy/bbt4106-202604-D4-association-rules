@@ -42,9 +42,9 @@ Intelligence I.
 
 | Details | Comment |
 |---|---|
-| **Student ID** | |
-| **Name** | |
-| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** | |
+| **Student ID** | 164430|
+| **Name** | Maxwell Gitonga|
+| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** | I did Section 4: Interpreting the rule set and validating it on a held-out period.<br>I translated the final rule set from item IDs to item names and found that the strongest patterns clustered within a single cuisine category rather than across categories, e.g. Chicken Biryani + Naan Bread → Raita (confidence 92.84%, lift 5.12) reflecting a near-automatic accompaniment pattern in Indian cuisine ordering. I also learnt that association rule mining has no held-out metric the way a predictive model does, so the closest equivalent is temporal validation: mining rules on an earlier period of transaction_date and re-checking their confidence against a later, unseen period. This showed me that a rule's strength on the data it was mined from isn't proof it reflects real customer behaviour — it could just be noise specific to that time window — and re-testing it on later transactions is what actually builds confidence the pattern generalizes.<br>Link to the branch: https://github.com/tanuiivy/bbt4106-202604-D4-association-rules/tree/feature/validation-maxwell |
 
 ### Member 5
 
