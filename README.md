@@ -50,9 +50,9 @@ Intelligence I.
 
 | Details | Comment |
 |---|---|
-| **Student ID** | |
-| **Name** | |
-| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** | |
+| **Student ID** |153130 |
+| **Name** |Ivy Tanui |
+| **What part of the lab did you personally contribute to (provide a link to the branch(es)), and what did you learn from it?** | I did Sections 9 through 12: the recommender function, model persistence, the code quality review, and the final report. Building the recommender taught me that "considers all matching rules" is an actual requirement, not just a formality. <br>For persistence, I learned that saving a model isn't the same as saving everything it needs to be useful; the rules alone are just item IDs without the lookup table.<br>Writing the report taught me that reporting means explaining the story the numbers tell, in this case, that the strongest rules cluster within a single cuisine rather than crossing categories. <br>Link to the branch:https://github.com/tanuiivy/bbt4106-202604-D4-association-rules/tree/feature/recommender-ivy|
 
 ## Video demonstration
 
