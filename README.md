@@ -60,7 +60,7 @@ Submit a link to a short video (5 minutes or less) demonstrating the
 solution. Give the lecturer rights to view it. Submit the link only. Don't
 upload the video file to the repository.
 
-**Link to the video:**
+**Link to the video:** https://docs.google.com/videos/d/16JU6b-CxVi1aL3l9XZCsniLM5xIVGDXLbKKZctTdY2M/play?usp=sharing
 
 ## Repository structure
 
